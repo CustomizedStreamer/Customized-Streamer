@@ -1,4 +1,4 @@
-# Customized Streamer
+# <div align="center"> Customized Streamer
 
 <div align="center">
   <img src="https://res.cloudinary.com/dubelz7md/image/upload/v1757909208/att.gJziGYwxcHeE1jPkVD2RXFxyTfbTuLSoI34CCHevrDA_id2r40.jpg" alt="Customized Streamer Logo" width="120" height="120">
